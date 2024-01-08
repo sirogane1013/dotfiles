@@ -1,5 +1,7 @@
 tap "homebrew/bundle"
 brew "gawk"
+brew "grep"
 brew "imagemagick"
+brew "rename"
 brew "zsh-autosuggestions"
 cask "visual-studio-code"
