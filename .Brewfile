@@ -1,6 +1,8 @@
 tap "homebrew/bundle"
 brew "gawk"
+brew "gnu-sed"
 brew "grep"
 brew "imagemagick"
 brew "rename"
+cask "blender"
 cask "visual-studio-code"
