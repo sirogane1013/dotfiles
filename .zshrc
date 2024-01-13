@@ -33,6 +33,7 @@ zinit light-mode for \
 ### End of Zinit's installer chunk
 
 zinit light zsh-users/zsh-autosuggestions
+zinit light zsh-users/zsh-syntax-highlighting
 zinit light romkatv/powerlevel10k
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
