@@ -35,6 +35,7 @@ zinit light-mode for \
 zinit light zsh-users/zsh-autosuggestions
 zinit light zsh-users/zsh-syntax-highlighting
 zinit light romkatv/powerlevel10k
+zinit light asdf-vm/asdf
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh

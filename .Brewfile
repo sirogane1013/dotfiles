@@ -1,4 +1,5 @@
 tap "homebrew/bundle"
+brew "aom"
 brew "gawk"
 brew "gnu-sed"
 brew "grep"
